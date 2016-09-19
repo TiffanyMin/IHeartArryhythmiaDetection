@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rexpfd>
+    <destination path="dhcp-18-111-11-72.raspberry-pi:/home/pi/ArduinoSensorGraph"/>
+    <options createDirectoryStructure="false" createSelectedOnly="true" descriptionFilePath="/ArduinoSensorOnly/rpiExportDesc.rexpfd" overWriteExistingFiles="false" reviewSynchronize="true" saveSettings="true"/>
+    <selectedElements>
+        <project name="ArduinoSensorOnly"/>
+    </selectedElements>
+</rexpfd>
